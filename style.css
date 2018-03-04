@@ -1,0 +1,53 @@
+.header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: white;
+    display: block;  
+}
+
+.fixed {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.pull-left{
+    float: left;
+}
+
+ .title{
+    vertical-align: middle;
+ }
+ 
+ div {
+    display:block;
+ }
+ 
+.container{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.header .container{
+    position: relative;
+}
+
+.header h1{
+    margin-bottom: 0;
+}
+
+
+ .header h1.logo{
+    font-weight: bold;
+    font-size: 28px;
+ }
+
+.header h1.logo a {
+    color: #444;
+    text-decoration: none;
+}
