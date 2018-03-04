@@ -51,3 +51,34 @@
     color: #444;
     text-decoration: none;
 }
+
+header ul{
+        font-family: 'Lato', arial, sans-serif;
+        color: #444;
+         display:block;
+}
+
+.header .container .main-nav  {
+    padding: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    } 
+
+.header .main-nav .nav .nav-item{
+    margin-right: 5px;
+    font-weight: normal;
+    
+}  
+
+.header .main-nav .nav .nav-item a{
+    padding: 15px 20px;
+    font-size: 14px;
+    color: #444;
+}
+.header .container .main-nav .nav .nav-item a.nav-link.active {
+color:#56bc94;
+
+} 
+
