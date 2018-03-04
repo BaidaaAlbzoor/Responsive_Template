@@ -94,13 +94,16 @@ color:#56bc94;
     margin-top: 60px;
 }
 
+
+
 .section div.col-lg-8 h2{
     margin-bottom: 35px;
 }
 
 .section div.col-lg-8 ul{
     padding-left: 60px;
-    margin-bottom:60px;
+    margin-bottom: 30px;
+    margin-top: 30px;
     list-style-type: disc;
 }
 .section div.col-lg-8 li{
@@ -114,8 +117,8 @@ color:#56bc94;
     display:inline-block;
 }
 
- .download-area ul{   
- display: block;
+.download-area ul{   
+    display: block;
 
 } 
 
@@ -128,15 +131,34 @@ color:#56bc94;
 }
 
 .download-area ul li.ios-btn{   
-background-image: url(app-store-btn.png); 
-width: 200px;
-height: 60px;
-text-indent: -9999px;
+    background-image: url(./images/app-store-btn.png); 
+    width: 200px;
+    height: 60px;
+    text-indent: -9999px;
 }
 
 .download-area ul li.android-btn{  
-background-image: url(google-play-btn.png); 
-width: 200px;
-height: 60px;
-text-indent: -9999px;
+    background-image: url(./images/google-play-btn.png); 
+    width: 200px;
+    height: 60px;
+    text-indent: -9999px;
 }
+
+.note{   
+    padding-left:90px; 
+    margin-bottom:60px;  
+}
+    
+.note img{
+    padding-bottom:20px;
+    width:63px;
+    height:60px;   
+}
+    
+.note p{
+    display: inline-block;
+    text-align: center;
+    margin-left:20px;
+     margin-right: 20px;
+}
+    
