@@ -82,3 +82,29 @@ color:#56bc94;
 
 } 
 
+.section{
+    display: block;
+    padding-top: 90px;
+    background-color: #56bc94;
+    background-image: url(.images/pattern.png);
+    color: white;
+    }
+
+.section div.col-lg-8{
+    margin-top: 60px;
+}
+
+.section div.col-lg-8 h2{
+    margin-bottom: 35px;
+}
+
+.section div.col-lg-8 ul{
+    padding-left: 60px;
+    margin-bottom:60px;
+    list-style-type: disc;
+}
+.section div.col-lg-8 li{
+    font-size: 20px;  
+    margin-bottom:15px;
+}
+
