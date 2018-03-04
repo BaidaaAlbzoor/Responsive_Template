@@ -161,4 +161,45 @@ color:#56bc94;
     margin-left:20px;
      margin-right: 20px;
 }
+
+.features .icon{
+    position: relative;
+    width:90px;
+    height: 90px;
+    border: 3px solid #56bc94;
+    border-radius: 50%;
+    margin:0 auto;
+    
+    }
+    
+.features .icon .fa {
+    color: #56bc94;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 48px;
+    padding: 15px
+}
+    
+.features {
+    padding-top:80px; 
+}
+
+.features .content {
+    padding-top:30px; 
+} 
+
+.features .content .title {
+    color: #56bc94;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.features .content p {
+    text-align: center;            
+}
+    
+.features .second-row {
+    margin-top: 30px;
+}
     
